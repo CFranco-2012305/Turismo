@@ -3,6 +3,9 @@ package com.carlosfranco.vijuk.turismo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.android.volley.RequestQueue;
+import com.android.volley.toolbox.JsonObjectRequest;
+
 public class MainActivity extends AppCompatActivity {
 
     JsonObjectRequest array;
